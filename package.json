@@ -1,0 +1,14 @@
+{
+  "name": "adj-r-squared",
+  "version": "0.0.0",
+  "description": "calculates adjusted r squared",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "author": "Emmanuel Owosekun",
+  "license": "MIT",
+  "dependencies": {
+    "r-squared": "0.0.0"
+  }
+}
